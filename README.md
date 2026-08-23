@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 4 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [brute force](#brute-force) (2)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -42,6 +42,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/JainSahab45/CodeForce/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [Java 21](https://github.com/JainSahab45/CodeForce/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.java) |
 
 ---
